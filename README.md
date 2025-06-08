@@ -104,4 +104,6 @@
   <!-- GitHub Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrashantSharma0512&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" alt="GitHub Activity Graph" width="100%" />
 
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmQxa3NoMDkwajVoZGJhamNwOHM4OHB1ZTg5Mnk0NGs3ODdycjh0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" alt="GitHub Activity Graph" width="100%" />
+
 </div>
